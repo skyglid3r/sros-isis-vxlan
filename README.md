@@ -1,2 +1,2 @@
-# sros-isis-vxlan-static-vtep
+# sros-isis-vxlan
 3-Node Nokia SR OS ISIS VXLAN Static VTEP Lab
