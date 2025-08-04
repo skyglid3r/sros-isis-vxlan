@@ -13,6 +13,7 @@ The **underlay** runs **ISIS** for loopback and transport reachability, while th
 ---
 
 ### 🗺️ Lab Topology
+![Lab Topology](3Node-ISIS-VxLAN.png)
 
 ### 🔹 Nodes
 - **PE1** – Loopback: `1.1.1.1`
