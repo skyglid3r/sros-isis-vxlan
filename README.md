@@ -90,8 +90,8 @@ Ensures all nodes have full adjacencies and correct underlay routes.
 ### 🔍 4. VXLAN Services
 ```bash
 
-show service id <vxlan-service-id> destinations
-show service id <vxlan-service-id> detail
+show service id <vxlan-service-id> vxlan destinations
+show service id <vxlan-service-id> vxlan detail
 
 ```
 Validates VXLAN service state, bindings, and endpoints.
